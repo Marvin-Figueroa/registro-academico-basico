@@ -1,0 +1,69 @@
+[
+  {
+    "carnet": "MF13002",
+    "nombre": "Marvin",
+    "apellido": "Figueroa",
+    "notas": [1.5, 8, 8, 5.83]
+  },
+  {
+    "carnet": "WS12345",
+    "nombre": "Wilson",
+    "apellido": "Smith",
+    "notas": [7.5, 8.5, 9.5, 8.5]
+  },
+  {
+    "carnet": "SG12345",
+    "nombre": "Sarah",
+    "apellido": "Gomez",
+    "notas": [6.8, 10, 3.6, 6.8]
+  },
+  {
+    "carnet": "KS12345",
+    "nombre": "Karla",
+    "apellido": "Sanchez",
+    "notas": [10, 8, 9, 9.0]
+  },
+  {
+    "carnet": "LP12345",
+    "nombre": "Lorena",
+    "apellido": "Peraza",
+    "notas": [9.5, 2.5, 3.5, 5.17]
+  },
+  {
+    "carnet": "JP12345",
+    "nombre": "Juan",
+    "apellido": "Perez",
+    "notas": [5.5, 8.1, 6.8, 6.8]
+  },
+  { "carnet": "PC12345", "nombre": "Pedro", "apellido": "Cortez", "notas": [] },
+  {
+    "carnet": "CG12345",
+    "nombre": "Carlos",
+    "apellido": "Guzman",
+    "notas": [5.8, 7.4, 8.3, 7.17]
+  },
+  {
+    "carnet": "RL12345",
+    "nombre": "Roxana",
+    "apellido": "Linares",
+    "notas": []
+  },
+  {
+    "carnet": "RM12345",
+    "nombre": "Rosa",
+    "apellido": "Morales",
+    "notas": [5.6, 9.4, 7.1, 7.37]
+  },
+  {
+    "carnet": "JF12345",
+    "nombre": "Jaime",
+    "apellido": "Flores",
+    "notas": [6, 8, 5, 6.33]
+  },
+  {
+    "carnet": "RE15007",
+    "nombre": "Ruth",
+    "apellido": "Escobar",
+    "notas": [6.9, 8.7, 7.3, 7.63]
+  }
+]

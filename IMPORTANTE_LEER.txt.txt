@@ -1,0 +1,6 @@
+ALUMNO: Marvin Obed Figueroa Lopez
+CARNÉ: FL13002
+PROGRAMA DESARROLLADO Y TESTEADO CON: Python 3.8+
+REQUIERE TENER INSTALADO: python 3.8+, pandas y matplotlib
+
+PARA INICIAR EL PROGRAMA SE DEBE EJECUTAR EL ARCHIVO iniciar_registro_academico.py 
