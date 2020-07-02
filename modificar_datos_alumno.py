@@ -53,7 +53,7 @@ def editar_alumno():
             else:
                 print("El nuevo carnet no es valido")
 
-        lista_alumnos[pos_alumno]["carnet"] = nuevo_carnet
+        lista_alumnos[pos_alumno]["carnet"] = nuevo_carnet.upper()
 
         # Abre el archivo json donde se guardan los datos del programa, en modo de escritura(w) y lo sobreescribe con los datos de la List actual donde ya se modifico el carnet del alumno.
         with open("datos-alumnos.json", "w") as salida:
